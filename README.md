@@ -1,3 +1,7 @@
+Unofficial implementation of https://github.com/CurryTang/Graph-LLM
+
+Check these slides for more info: https://docs.google.com/presentation/d/1ewERkOaraOuJlZd6DtJM7aPXnE1Zb-bOmKzb2vgT4BA/edit?usp=sharing
+
 Instructions to use for LLM as enhancer:-
 
 1. conda install requirements.txt
